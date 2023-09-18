@@ -65,3 +65,20 @@ Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser
 [expo]: https://docs.expo.dev/
 [rn]: https://facebook.github.io/react-native/
 [yarn]: https://yarnpkg.com/
+
+
+[Figma do projeto](https://www.figma.com/file/xEHiFcNLsIEKdostk64RRZ/Ficando-Online---Design?type=design&node-id=0-1&mode=design&t=s8q8ScfE2KziHJCY-0)
+
+## Conceitos Abordados
+
+| N. | Conceito trabalhado |
+|--- |---
+| 1 | Web API, biblioteca json-server, isomnia.
+| 2 | Blioteca Axios, Requisicões.
+| 3 | conceito.
+| 4 | conceito.
+| 5 | conceito.
+| 7 | conceito.
+| 8 | conceito.
+| 9 | conceito.
+| 10 | conceito.

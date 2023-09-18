@@ -6,21 +6,20 @@ import CriarRepositorio from '../screens/CriarRepositorio';
 import InfoRepositorio from '../screens/InfoRepositorio';
 
 import { NavigationContainer } from '@react-navigation/native';
-import { createStackNavigator } from '@react-navigation/stack';
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
-const Tab = createBottomTabNavigator();
+const Stack = createNativeStackNavigator();
 
 
 export default function Rotas() {
     return (
         <NavigationContainer>
-            <Tab.Navigator>
-                <Tab.Screen name="Principal" options={{ title: "Perfil" }} component={Principal} />
-                <Tab.Screen name="Repositorios" component={Repositorios} />
-                <Tab.Screen name="CriarRepositorio" options={{ title: "Criar Repositório" }} component={CriarRepositorio} />
-                <Tab.Screen name="InfoRepositorio" options={{ title: "Repositório Info" }} component={InfoRepositorio} />
-            </Tab.Navigator>
+            <Stack.Navigator>
+                <Stack.Screen name="Principal" options={{ title: "Perfil" }} component={Principal} />
+                <Stack.Screen name="Repositorios" component={Repositorios} />
+                <Stack.Screen name="CriarRepositorio" options={{ title: "Criar Repositório" }} component={CriarRepositorio} />
+                <Stack.Screen name="InfoRepositorio" options={{ title: "Repositório Info" }} component={InfoRepositorio} />
+            </Stack.Navigator>
         </NavigationContainer>
     );
 }
