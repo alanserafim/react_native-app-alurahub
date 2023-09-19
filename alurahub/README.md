@@ -82,3 +82,10 @@ Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser
 | 8 | conceito.
 | 9 | conceito.
 | 10 | conceito.
+
+## Comandos
+
+```bash
+json-server --watch db.json --host 192.168.227.141 
+
+```
