@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="FicandoOnline" title="#FicandoOnline" src=".images/header.jpg" width="100%" />
-</h1>
-
 <h4 align="center"> 
 	AluraHub 
 </h4>
@@ -76,7 +72,7 @@ Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser
 | 1 | Web API, biblioteca json-server, isomnia.
 | 2 | Blioteca Axios, Requisicões.
 | 3 | Requisições GET e PUT.
-| 4 | Requisições POST e DELETE.
+| 4 | Requisições POST e DELETE, e uso da API pública do GitHub.
 | 5 | conceito.
 | 7 | conceito.
 | 8 | conceito.
@@ -86,6 +82,6 @@ Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser
 ## Comandos
 
 ```bash
-json-server --watch db.json --host 192.168.1.16
+json-server --watch db.json --host <ip adress>
 
 ```
