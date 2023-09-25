@@ -16,6 +16,15 @@ const estilos = StyleSheet.create({
         borderRadius: 8,
         width: '90%',
     },
+    botao2: {
+        backgroundColor: '#000080',
+        marginTop: 20,
+        padding: 10,
+        alignItems: 'center',
+        justifyContent: 'center',
+        borderRadius: 8,
+        width: '90%',
+    },
     textoBotao: {
         fontWeight: 'bold',
         fontSize: 16,

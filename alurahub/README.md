@@ -75,8 +75,8 @@ Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser
 |--- |---
 | 1 | Web API, biblioteca json-server, isomnia.
 | 2 | Blioteca Axios, Requisicões.
-| 3 | conceito.
-| 4 | conceito.
+| 3 | Requisições GET e PUT.
+| 4 | Requisições POST e DELETE.
 | 5 | conceito.
 | 7 | conceito.
 | 8 | conceito.
@@ -86,6 +86,6 @@ Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser
 ## Comandos
 
 ```bash
-json-server --watch db.json --host 192.168.227.141 
+json-server --watch db.json --host 192.168.1.16
 
 ```

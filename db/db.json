@@ -21,12 +21,6 @@
   ],
   "repos": [
     {
-      "name": "alura-react-native-comecando-do-inicio",
-      "data": "1 de jan. de 2022",
-      "postId": 2,
-      "id": 3
-    },
-    {
       "id": 4,
       "name": "bot_piano_tiles",
       "data": "1 de jan. de 2021",
@@ -37,12 +31,6 @@
       "data": "1 de jan. de 2021",
       "postId": 2,
       "id": 1
-    },
-    {
-      "id": 2,
-      "name": "alura-pikachu",
-      "data": "1 de jan. de 2021",
-      "postId": 2
     },
     {
       "id": 3,
