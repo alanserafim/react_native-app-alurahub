@@ -38,29 +38,28 @@ No terminal, digite os comandos a seguir:
 
 ```bash
 # Clonar esse repositório
-$ git clone https://github.com/alura-cursos/react-native-ficando-online.git
+$ git clone https://github.com/alanserafim/react_native-app-alurahub.git
 
 # Vá para o ropositório
 $ cd AluraHub
 
 # Instale as dependências
 $ npm install
+
 ```
 
 ### Executar o Mobile
 
 ```bash
 # Execute em outro terminal (dentro da pasta AluraHub)
-$ expo start
+$ npx expo start
+
+
+# Para consultas dos usuários internos
+# Execute em outro terminal (dentro da pasta db)
+$ json-server --watch db.json --host <ip adress>
+
 ```
-
-
-Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser dar um salve, estou lá no LinkedIn [NOME](LINK). :wave: 
-
-[nodejs]: https://nodejs.org/
-[expo]: https://docs.expo.dev/
-[rn]: https://facebook.github.io/react-native/
-[yarn]: https://yarnpkg.com/
 
 
 [Figma do projeto](https://www.figma.com/file/xEHiFcNLsIEKdostk64RRZ/Ficando-Online---Design?type=design&node-id=0-1&mode=design&t=s8q8ScfE2KziHJCY-0)
@@ -73,11 +72,6 @@ Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser
 | 2 | Blioteca Axios, Requisicões.
 | 3 | Requisições GET e PUT.
 | 4 | Requisições POST e DELETE, e uso da API pública do GitHub.
-| 5 | conceito.
-| 7 | conceito.
-| 8 | conceito.
-| 9 | conceito.
-| 10 | conceito.
 
 ## Comandos
 
