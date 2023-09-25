@@ -60,6 +60,9 @@ $ npx expo start
 $ json-server --watch db.json --host <ip adress>
 
 ```
+[nodejs]: https://nodejs.org/
+[expo]: https://docs.expo.dev/
+[rn]: https://facebook.github.io/react-native/
 
 
 [Figma do projeto](https://www.figma.com/file/xEHiFcNLsIEKdostk64RRZ/Ficando-Online---Design?type=design&node-id=0-1&mode=design&t=s8q8ScfE2KziHJCY-0)
