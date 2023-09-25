@@ -18,7 +18,7 @@ Esse projeto é utilizado no curso 4 da formação base de React Native da plata
 
 
 <h1 align="center">
-    <img alt="Demonstracao" title="Demonstracao" src=".images/ficando-online-newdesign.gif" width="400px" />
+    <img alt="Demonstracao" title="Demonstracao" src="./alurahub/.images/ficando-online-newdesign.gif" width="400px" />
 </h1>
 
 
