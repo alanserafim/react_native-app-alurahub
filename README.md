@@ -41,7 +41,7 @@ No terminal, digite os comandos a seguir:
 $ git clone https://github.com/alanserafim/react_native-app-alurahub.git
 
 # Vá para o ropositório
-$ cd AluraHub
+$ cd aluraHub
 
 # Instale as dependências
 $ npm install
@@ -67,18 +67,11 @@ $ json-server --watch db.json --host <ip adress>
 
 [Figma do projeto](https://www.figma.com/file/xEHiFcNLsIEKdostk64RRZ/Ficando-Online---Design?type=design&node-id=0-1&mode=design&t=s8q8ScfE2KziHJCY-0)
 
-## Conceitos Abordados
+## Conceitos Abordados no desenvolvimento
 
 | N. | Conceito trabalhado |
 |--- |---
 | 1 | Web API, biblioteca json-server, isomnia.
 | 2 | Blioteca Axios, Requisicões.
 | 3 | Requisições GET e PUT.
-| 4 | Requisições POST e DELETE, e uso da API pública do GitHub.
-
-## Comandos
-
-```bash
-json-server --watch db.json --host <ip adress>
-
-```
+| 4 | Requisições POST e DELETE, utilização da API pública do GitHub.
