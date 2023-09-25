@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com a utilização das seguintes tecnologias:
 
 ## :information_source: Como usar
 
-Para copiar e executar essa aplicação, você precisa de três pré-requisitos: [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] intalados no seu computador.
+Para copiar e executar essa aplicação, você precisa de três pré-requisitos: [Git](https://git-scm.com), [Node.js][nodejs] intalados no seu computador.
 
 No terminal, digite os comandos a seguir:
 
